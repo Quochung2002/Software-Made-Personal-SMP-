@@ -9,8 +9,8 @@ SMP is hoping to reduce the total number of operators they need by cross-trainin
 Incoming calls can be modeled as a Poisson arrival process with a rate of 60 per hour. The mean time required for an operator to answer a question is 5 minutes, with the actual time being Erlang-2 for financial calls, and Erlang-3 for contact management calls. The current assignment of operators is as follows:
 
                                                      
------------------------------------------------------
+
 Current number of operators        financial      4
                                    contact mgmt   3
------------------------------------------------------
+
  
